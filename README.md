@@ -42,7 +42,6 @@ The `Playlist` class, powered by its custom Doubly Linked List, supports the fol
     ```bash
     javac *.java
     ```
-    (Or `javac src/*.java` if your files are in a `src` folder)
 3.  **Run the application:**
     ```bash
     java PlaylistApp
