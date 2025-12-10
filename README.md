@@ -34,8 +34,8 @@ The `Playlist` class, powered by its custom Doubly Linked List, supports the fol
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/boeani05/MusicPlaylistManagement.git
+    cd MusicPlaylistManagement/src
     ```
 2.  **Compile the Java code:**
     Navigate to the directory containing your `.java` files (e.g., `src` if you have one) and compile them:
