@@ -9,13 +9,6 @@ public class Song {
         this.duration = duration;
     }
 
-    public Song(String title, String artist) {
-        this.title = title;
-        this.artist = artist;
-
-        this.duration = 0;
-    }
-
     public String getTitle() {
         return title;
     }
@@ -25,7 +18,7 @@ public class Song {
         return String.format("""
                         
                         === %s (%s) ===
-                        \t %d
+                        \t %d seconds
                         """,
                 title,
                 artist,
